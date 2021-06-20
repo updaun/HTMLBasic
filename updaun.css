@@ -78,6 +78,19 @@ footer {
     color: #919191;
 }
 
+.title-box {
+    text-align: right;
+}
+
+.sns-imgleft {
+    margin-right: 20px;
+}
+
+.sns-wrap {
+    text-align : right;
+}
+
+
 .float-wrap {
     overflow: hidden;
 }
